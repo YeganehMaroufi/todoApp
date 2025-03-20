@@ -8,11 +8,11 @@
 }
 
 :root {
-  --background: #000430;
-  --secondaryBackground: #171c48;
+  --background: #10002b;
+  --secondaryBackground: #3c096c;
   --text: #fff;
-  --purple: #828dff;
-  --teal: #24feee;
+  --purple: #9d4edd;
+  --teal: #ffffff;
 }
 
 body {
